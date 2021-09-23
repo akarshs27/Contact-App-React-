@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "fd6f7f12-4f62-4803-b170-b4e0c4cea226",
+      "name": "one",
+      "email": "one@gmail.com"
+    },
+    {
+      "id": "18106b6b-e2c1-49fc-8b57-4db0607e9c0e",
+      "name": "two",
+      "email": "two@gmai.com"
+    },
+    {
+      "id": "2e221e5b-3e71-4f07-98f6-e854b4262279",
+      "name": "four",
+      "email": "four@gmail.com"
+    }
+  ]
+}
